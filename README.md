@@ -1,1 +1,1 @@
-# donate-vs
+# donate-vs pet project
