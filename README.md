@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Donation_vs is a multi-page application we've designed to help users discover and support charitable organizations and urgent fundraising campaigns efficiently. Our goal is to create a seamless experience for users to find and support causes they care about, using an intuitive and user-friendly interface.
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) in development.
 
 ## Getting Started
 
